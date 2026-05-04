@@ -1,0 +1,2 @@
+Texte saisi : salut je teste le hash de mon code
+SHA-256 : de64a8a7d2c61bc2c58f84ce8bfc02540419e094e7cbb3ea13f7d71ca35b0c28
