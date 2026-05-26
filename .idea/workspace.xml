@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2657d1e4-b113-4c51-a97e-819abe5b895b" name="Changes" comment="premier push, exercice hash">
-      <change afterPath="$PROJECT_DIR$/Exercice_Fil_rouge/Ex_fil_rouge.py" afterDir="false" />
+    <list default="true" id="2657d1e4-b113-4c51-a97e-819abe5b895b" name="Changes" comment="Exercice fil rouge, sans le .env">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,18 +42,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Ex_fil_rouge.executor": "Run",
-    "Python.hash_calculator.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Ex_fil_rouge.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hash_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,11 +77,29 @@
       <option name="project" value="LOCAL" />
       <updated>1777887149729</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercice fil rouge">
+      <option name="closed" value="true" />
+      <created>1777992011310</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777992011310</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exercice fil rouge, sans le .env">
+      <option name="closed" value="true" />
+      <created>1779100160594</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779100160594</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="premier push, exercice hash" />
-    <option name="LAST_COMMIT_MESSAGE" value="premier push, exercice hash" />
+    <MESSAGE value="Exercice fil rouge" />
+    <MESSAGE value="Exercice fil rouge, sans le .env" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercice fil rouge, sans le .env" />
   </component>
 </project>
