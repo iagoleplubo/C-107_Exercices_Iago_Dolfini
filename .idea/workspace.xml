@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2657d1e4-b113-4c51-a97e-819abe5b895b" name="Changes" comment="push de l'ex metadata pas encore fini, avec le fichier hello_iago.pdf afin de récuperer le raw du pdf depuis github">
+    <list default="true" id="2657d1e4-b113-4c51-a97e-819abe5b895b" name="Changes" comment="j'ai refait l'ex metadata car j'avais rien compris la il marche bien">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercice_MetaData/Calcule_hash_SHA-256.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice_MetaData/Calcule_hash_SHA-256.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,18 +43,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Ex_fil_rouge.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hash_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Calcule_hash_SHA-256.executor": "Run",
+    "Python.Ex_fil_rouge.executor": "Run",
+    "Python.hash_calculator.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -109,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779804327562</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="j'ai refait l'ex metadata car j'avais rien compris la il marche bien">
+      <option name="closed" value="true" />
+      <created>1779804886289</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1779804886289</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,6 +128,7 @@
     <MESSAGE value="Exercice fil rouge, sans le .env" />
     <MESSAGE value="changement du nom du premier exercice pour rendre plus cohérent" />
     <MESSAGE value="push de l'ex metadata pas encore fini, avec le fichier hello_iago.pdf afin de récuperer le raw du pdf depuis github" />
-    <option name="LAST_COMMIT_MESSAGE" value="push de l'ex metadata pas encore fini, avec le fichier hello_iago.pdf afin de récuperer le raw du pdf depuis github" />
+    <MESSAGE value="j'ai refait l'ex metadata car j'avais rien compris la il marche bien" />
+    <option name="LAST_COMMIT_MESSAGE" value="j'ai refait l'ex metadata car j'avais rien compris la il marche bien" />
   </component>
 </project>
