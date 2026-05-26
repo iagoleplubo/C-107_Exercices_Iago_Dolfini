@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2657d1e4-b113-4c51-a97e-819abe5b895b" name="Changes" comment="Exercice fil rouge, sans le .env">
+    <list default="true" id="2657d1e4-b113-4c51-a97e-819abe5b895b" name="Changes" comment="push de l'ex metadata pas encore fini, avec le fichier hello_iago.pdf afin de récuperer le raw du pdf depuis github">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,13 +93,31 @@
       <option name="project" value="LOCAL" />
       <updated>1779100160594</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changement du nom du premier exercice pour rendre plus cohérent">
+      <option name="closed" value="true" />
+      <created>1779801789173</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779801789173</updated>
+    </task>
+    <task id="LOCAL-00005" summary="push de l'ex metadata pas encore fini, avec le fichier hello_iago.pdf afin de récuperer le raw du pdf depuis github">
+      <option name="closed" value="true" />
+      <created>1779804327562</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1779804327562</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="premier push, exercice hash" />
     <MESSAGE value="Exercice fil rouge" />
     <MESSAGE value="Exercice fil rouge, sans le .env" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercice fil rouge, sans le .env" />
+    <MESSAGE value="changement du nom du premier exercice pour rendre plus cohérent" />
+    <MESSAGE value="push de l'ex metadata pas encore fini, avec le fichier hello_iago.pdf afin de récuperer le raw du pdf depuis github" />
+    <option name="LAST_COMMIT_MESSAGE" value="push de l'ex metadata pas encore fini, avec le fichier hello_iago.pdf afin de récuperer le raw du pdf depuis github" />
   </component>
 </project>
